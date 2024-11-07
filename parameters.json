@@ -1,0 +1,16 @@
+{
+    "modes": ["individuel", "colocation", "couple"],
+    "villes":
+    [
+        {
+            "nom": "Nantes"
+        },
+        {
+            "nom": "Grenoble"
+        }
+    ],
+    "prix": {
+        "min": 100,
+        "max": 1000
+    }
+}
